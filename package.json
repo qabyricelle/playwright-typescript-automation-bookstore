@@ -1,0 +1,16 @@
+{
+  "name": "playwright-typescript-automation-bookstore",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "github.com/rinoitab",
+  "license": "ISC",
+  "description": "Automated test for the Automation Bookstore website using Playwright with TypeScript",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.12.12"
+  }
+}
